@@ -1,0 +1,2 @@
+# gpui
+zed gui
